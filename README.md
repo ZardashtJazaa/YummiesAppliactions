@@ -6,8 +6,11 @@ and the frontend is fetch data from backend which is an API
 Future of Yummie Application:
 
 1- has Onboaring Screen for once after user getStarted.
+
 2- user can view each Dishes and place an order by writing them self name .
+
 3- user can filter Foods by Category.
+
 4- user can view their order from Cart icon on top-right corner.
 
 
